@@ -1,2 +1,2 @@
-git commit --allow-empty -m "Forzar rebuild después de DNS"
+git commit --allow-empty -m "Forzar HTTPS + rebuild"
 git push origin main
