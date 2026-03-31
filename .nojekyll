@@ -1,0 +1,2 @@
+git commit --allow-empty -m "Forzar rebuild después de DNS"
+git push origin main
